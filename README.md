@@ -2,8 +2,8 @@
 
 ### Team
 
-Kristin Flores
-Gerald Watts
+- Kristin Flores
+- Gerald Watts
 
 ### Dataset Background
 
@@ -18,7 +18,7 @@ The database provides annual fuel cost estimates, rounded to the nearest $50, fo
 
 EPA’s fuel economy values are good estimates of the fuel economy a typical driver will achieve under average driving conditions and provide a good basis to compare one vehicle to another. However, your fuel economy may be slightly higher or lower than EPA’s estimates. Fuel economy varies, sometimes significantly, based on driving conditions, driving style, and other factors.
 
-###Questions & Analysis
+### Questions & Analysis
 
 How has fuel cost changed over time? (1984-2017) (Later time: consider inflation)
 
