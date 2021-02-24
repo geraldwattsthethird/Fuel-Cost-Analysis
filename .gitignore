@@ -1,3 +1,6 @@
+#Added by Kristin to hid Mac DS store
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
