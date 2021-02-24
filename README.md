@@ -31,7 +31,7 @@ How has XXX fuel cost changed over time? (1984-2017)
 - Fuel cost over time
 - MPG over time
 
-What factors might effects fuel cost? (2017)
+What factors might affect fuel cost? (2017)
 
 - Transmission
 - Drive
