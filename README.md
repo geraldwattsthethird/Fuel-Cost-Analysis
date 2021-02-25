@@ -20,7 +20,7 @@ The database provides annual fuel cost estimates, rounded to the nearest $50, fo
 
 EPA’s fuel economy values are good estimates of the fuel economy a typical driver will achieve under average driving conditions and provide a good basis to compare one vehicle to another. However, your fuel economy may be slightly higher or lower than EPA’s estimates. Fuel economy varies, sometimes significantly, based on driving conditions, driving style, and other factors.
 
-## Questions & Analysis
+## Questions
 
 We were curious to know how fuel cost has changed over the years as cars have become more effienct but gas prices overall have risen. Our hypthesis about the data were:
 
@@ -30,22 +30,24 @@ We were curious to know how fuel cost has changed over the years as cars have be
 4. Front, rear, and all wheel drive will have a similar fuel efficiency. 
 5. Midgrade gasoline is not a significant factor in average fuel cost and does not have an effect on the overall fuel cost of vehicle. 
 
+## Analysis
+
 ### 1. Average fuel cost has decreased in recent years due to increased car effiency, in this case, miles per gallon.  
 
-To explore this hypothesis, we looked at fuel cost and miles per gallon (mpg)  from 1984-2017. We found 
+To explore this hypothesis, we looked at fuel cost and miles per gallon (mpg)  from 1984-2017. We found a general increase in fuel cost until about 2009 which began a notable decrease in overall average annual fuel cost. Miles per gallon remained generally steady until 2009 when a drastic increase in miles per gallon began. It is interesting to note that as miles per gallon increased the average annual fuel cost decreased leading one to speculate that more efficient cars play a key role in average annual fuel cost. 
 
 ### 2. Standard vehicles are more fuel efficient than performance cars. 
 
-To explore this hypothesis, we comapred fuel cost and miles per gallon (mpg) of Toyotas and Porches from 1984-2017. We found 
+To explore this hypothesis, we compared fuel cost and miles per gallon (mpg) of Toyotas and Porches from 1984-2017. The data we observed did not allow us to refute the stated hypothesis as the Porsche, a performance vehicle, always had a higher average annual fuel cost than the standard car, Toyota. It is interesting to note that in 1985 and 1993 the average fuel costs were at the most similar rates. We also compared miles per gallon between these two cars and Toyota always had a higher mile per gallon when compared to Porche. 
 
 ### 3. Manual drive cars are more fuel efficient than automatic drive cars. 
 
-To explore this hypothesis, we compared the average fuel cost of automatic cars and manual cars in 2017. We found
+To explore this hypothesis, we compared the average fuel cost of automatic cars and manual cars in 2017. We found the average fuel cost for automatic cars to be $1,753.01 and the average fuel cost for manual cars to be $1,634.97 which aligns with our initial assumptions.
 
 ### 4. Front, rear, and all wheel drive will have a similar fuel efficiency. 
 
-To explore this hypothesis, we compared the average fuel cost of front, rear, and all wheel drive cars in 2017. We found
+To explore this hypothesis, we compared the average fuel cost of the front, rear, and all-wheel drive cars in 2017. Our data showed in 2017 the average fuel cost for the front-wheel drive was $1,317.10, the all-wheel drive was $1,866.70, and the rear-wheel drive was $2,015.64. This does not align with our initial assumption as the front-wheel drive was the lowest. This may be accounted for by the fact that most engines are in the front of cars so the front-wheel drive does not require additional pull on a vehicle. However, more analysis would need to be conducted to confirm this. 
 
 ### 5. Midgrade gasoline is not a significant factor in average fuel cost and does not have an effect on the overall fuel cost of vehicle. 
 
-To explore this hypothesis, we compared the average fuel cost for cars that used regular, midgrade, and premium in 2017. We found
+To explore this hypothesis, we compared the average fuel cost for cars that used regular, midgrade, and premium in 2017. We found the average annual fuel cost for cars that use premium gas to be $2,027.56 while the annual average for midgrade gas was $2,096.15, and regular gas came in at an annual average of $1,509.46. While regular gas was easily the cheapest there wasn't a large difference in midgrade and premium average annual fuel cost. 
