@@ -6,7 +6,11 @@
 - Gerald Watts
 - Shayet Makoshi
 
-## Dataset Background
+## Overview
+
+As we began this project our group was in an off-hand discussion about the significance of mid-grade fuel. After some research, we were able to find a dataset from the EPA about fuel cost and began our exploration. This led us to ask several questions about what other factors might affect the cost of fuel. Our data road trip is found below. 
+
+## Data Review 
 
 #### Dataset
 
@@ -20,7 +24,7 @@ The database provides annual fuel cost estimates, rounded to the nearest $50, fo
 
 EPA’s fuel economy values are good estimates of the fuel economy a typical driver will achieve under average driving conditions and provide a good basis to compare one vehicle to another. However, your fuel economy may be slightly higher or lower than EPA’s estimates. Fuel economy varies, sometimes significantly, based on driving conditions, driving style, and other factors.
 
-## Questions
+## Questions & Analysis
 
 We were curious to know how fuel cost has changed over the years as cars have become more effienct but gas prices overall have risen. Our hypthesis about the data were:
 
@@ -29,8 +33,6 @@ We were curious to know how fuel cost has changed over the years as cars have be
 3. Manual drive cars are more fuel efficient than automatic drive cars. 
 4. Front, rear, and all wheel drive will have a similar fuel efficiency. 
 5. Midgrade gasoline is not a significant factor in average fuel cost and does not have an effect on the overall fuel cost of vehicle. 
-
-## Analysis
 
 ### 1. Average fuel cost has decreased in recent years due to increased car effiency, in this case, miles per gallon.  
 
@@ -51,3 +53,7 @@ To explore this hypothesis, we compared the average fuel cost of the front, rear
 ### 5. Midgrade gasoline is not a significant factor in average fuel cost and does not have an effect on the overall fuel cost of vehicle. 
 
 To explore this hypothesis, we compared the average fuel cost for cars that used regular, midgrade, and premium in 2017. We found the average annual fuel cost for cars that use premium gas to be $2,027.56 while the annual average for midgrade gas was $2,096.15, and regular gas came in at an annual average of $1,509.46. While regular gas was easily the cheapest there wasn't a large difference in midgrade and premium average annual fuel cost. 
+
+## Final Summary
+
+After reviewing and analyzing all the data is was apparent that, should we want to find a fuel-efficient car for a road trip, we should look for a manual car that was built in 2010 or later with front-wheel drive that uses regular fuel and is a non-performance vehicle.
