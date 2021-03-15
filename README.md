@@ -47,17 +47,28 @@ To explore this hypothesis, we looked at fuel cost and miles per gallon (mpg)  f
 
 To explore this hypothesis, we compared fuel cost and miles per gallon (mpg) of Toyotas and Porches from 1984-2017. The data we observed did not allow us to refute the stated hypothesis as the Porsche, a performance vehicle, always had a higher average annual fuel cost than the standard car, Toyota. It is interesting to note that in 1985 and 1993 the average fuel costs were at the most similar rates. We also compared miles per gallon between these two cars and Toyota always had a higher mile per gallon when compared to Porche. 
 
+<p float="left">
+  <img src="https://github.com/geraldwattsthethird/Fuel-Cost-Analysis/blob/main/Images/Average%20Fuel%20Cost%20for%20Porches%20VS%20Toyota.png" width="400" />
+  <img src="https://github.com/geraldwattsthethird/Fuel-Cost-Analysis/blob/main/Images/Average%20MPG%20for%20Porches%20VS%20Toyota.png" width="400" /> 
+</p>
+
 ### 3. Manual drive cars are more fuel efficient than automatic drive cars. 
 
 To explore this hypothesis, we compared the average fuel cost of automatic cars and manual cars in 2017. We found the average fuel cost for automatic cars to be $1,753.01 and the average fuel cost for manual cars to be $1,634.97 which aligns with our initial assumptions.
+
+![Annual%20Fuel%20Cost%20for%20Automatic%20vs%20Manual.png](https://github.com/geraldwattsthethird/Fuel-Cost-Analysis/blob/main/Images/Annual%20Fuel%20Cost%20for%20Automatic%20vs%20Manual.png)
 
 ### 4. Front, rear, and all wheel drive will have a similar fuel efficiency. 
 
 To explore this hypothesis, we compared the average fuel cost of the front, rear, and all-wheel drive cars in 2017. Our data showed in 2017 the average fuel cost for the front-wheel drive was $1,317.10, the all-wheel drive was $1,866.70, and the rear-wheel drive was $2,015.64. This does not align with our initial assumption as the front-wheel drive was the lowest. This may be accounted for by the fact that most engines are in the front of cars so the front-wheel drive does not require additional pull on a vehicle. However, more analysis would need to be conducted to confirm this. 
 
+![Annual%20Fuel%20Cost%20for%20All%20Wheel%2C%20Rear%20Wheel%2C%20and%20Front%20Wheel%20Drive.png](https://github.com/geraldwattsthethird/Fuel-Cost-Analysis/blob/main/Images/Annual%20Fuel%20Cost%20for%20All%20Wheel%2C%20Rear%20Wheel%2C%20and%20Front%20Wheel%20Drive.png)
+
 ### 5. Midgrade gasoline is not a significant factor in average fuel cost and does not have an effect on the overall fuel cost of vehicle. 
 
 To explore this hypothesis, we compared the average fuel cost for cars that used regular, midgrade, and premium in 2017. We found the average annual fuel cost for cars that use premium gas to be $2,027.56 while the annual average for midgrade gas was $2,096.15, and regular gas came in at an annual average of $1,509.46. While regular gas was easily the cheapest there wasn't a large difference in midgrade and premium average annual fuel cost. 
+
+![Annual%20Fuel%20Cost%20for%20Premium%2C%20Midgrade%2C%20and%20Regular%20Gasoline.png](https://github.com/geraldwattsthethird/Fuel-Cost-Analysis/blob/main/Images/Annual%20Fuel%20Cost%20for%20Premium%2C%20Midgrade%2C%20and%20Regular%20Gasoline.png)
 
 ## Final Summary
 
