@@ -38,6 +38,11 @@ We were curious to know how fuel cost has changed over the years as cars have be
 
 To explore this hypothesis, we looked at fuel cost and miles per gallon (mpg)  from 1984-2017. We found a general increase in fuel cost until about 2009 which began a notable decrease in overall average annual fuel cost. Miles per gallon remained generally steady until 2009 when a drastic increase in miles per gallon began. It is interesting to note that as miles per gallon increased the average annual fuel cost decreased leading one to speculate that more efficient cars play a key role in average annual fuel cost. 
 
+<p float="left">
+  <img src="https://github.com/geraldwattsthethird/Fuel-Cost-Analysis/blob/main/Images/Average%20Annual%20Fuel%20Cost%20from%201984%20-%202017.png" width="400" />
+  <img src="https://github.com/geraldwattsthethird/Fuel-Cost-Analysis/blob/main/Images/Average%20Annual%20MPG%20from%201984%20-%202017.png" width="400" /> 
+</p>
+
 ### 2. Standard vehicles are more fuel efficient than performance cars. 
 
 To explore this hypothesis, we compared fuel cost and miles per gallon (mpg) of Toyotas and Porches from 1984-2017. The data we observed did not allow us to refute the stated hypothesis as the Porsche, a performance vehicle, always had a higher average annual fuel cost than the standard car, Toyota. It is interesting to note that in 1985 and 1993 the average fuel costs were at the most similar rates. We also compared miles per gallon between these two cars and Toyota always had a higher mile per gallon when compared to Porche. 
